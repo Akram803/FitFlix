@@ -3,7 +3,12 @@ setup your machine:
     2. run from cmd into this folder >> pip install -r requirement.txt 
         to install django framework and other dependancies
 
+run from cmd into this folder
+migrate database:
+    1. >> python manage.py makemigrations 
+    2. >> python manage.py migrate
+    
 run the project:
-    1. run from cmd into this folder >> python manage.py runserver
+    1. >> python manage.py runserver
     2. open the url in your cmd
     
