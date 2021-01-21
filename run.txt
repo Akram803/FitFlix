@@ -1,0 +1,9 @@
+setup your machine:
+    1. install python   https://www.python.org/downloads/
+    2. run from cmd into this folder >> pip install -r requirement.txt 
+        to install django framework and other dependancies
+
+run the project:
+    1. run from cmd into this folder >> python manage.py runserver
+    2. open the url in your cmd
+    
